@@ -2,7 +2,9 @@
 
 Welcome to my cybersecurity portfolio!
 
-I am currently working on expanding my skillset across a number of areas including scripting in various languages with a current focus on Python.
+I am a recent Cybersecurity and Information Assurance graduate looking to consistently expand and display my skillset.
+
+My recent focus has been on Python scripting. 
 
 <h2>Scripting Projects:</h2>
 
