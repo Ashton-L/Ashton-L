@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio!
 
-I am a recent Cybersecurity and Information Assurance graduate looking to break into the industry.  In order to prepare myself the best way possible, I have decided to put together this portfolio not only to demonstrate my skills but also as a way to continue to develop my skills in various areas.
+I am a recent Cybersecurity and Information Assurance graduate looking to break into the industry. In order to prepare myself the best way possible, I have decided to put together this portfolio not only to demonstrate my current skills but also as a way to continue to develop my skills in various areas. My initial focus has been Python scripting however I will soon be exapanding this portfolio into different areas such as PowerShell and other major cybersecurity tools!
 
 <h2>Scripting Projects:</h2>
 
